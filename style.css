@@ -1,0 +1,12 @@
+body {
+    color: white; font-family: "Londrina Shadow"; text-align: center;
+}
+
+#box {
+    border: 0.3rem solid white;
+    height: 1rem;
+    width: 83.6rem;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 5rem;
+}
