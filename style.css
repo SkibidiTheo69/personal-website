@@ -1,15 +1,17 @@
 body {
-    color: white; font-family: "Londrina Shadow"; text-align: center;
-background-image: linear-gradient(right, black, grey);
+    color: white;
+    font-family: "Londrina Shadow";
+    text-align: center;
+    background-image: linear-gradient(right, black, grey);
 }
 
 #box {
     border: 0.3rem solid white;
     height: 1rem;
-    width: 83.6rem;
+    width: 83rem;
     background-color: rgb(255, 255, 255);
     position: relative;
-    bottom: 5rem;
+    bottom: 5.5rem;
 }
 
 h2 {
@@ -18,4 +20,5 @@ h2 {
 
 button {
     font-size: 5rem;
+    border-radius: 1rem;
 }
